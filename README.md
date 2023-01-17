@@ -1,2 +1,2 @@
 # documentacao-fatec
-repositorios arquivados
+repositorios arquivados na organização
